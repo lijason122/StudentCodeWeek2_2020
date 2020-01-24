@@ -12,6 +12,7 @@ package ca.sheridancollege.softwarefundamentals.week1;
  */
 public class Student 
 {
+    // adding from Github
     private String name;
     private String studentID;
     private String program;
